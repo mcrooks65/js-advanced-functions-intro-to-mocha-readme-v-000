@@ -14,5 +14,5 @@ function shouting(string) {
   return string.toUpperCase()
 }
 function roundDown(number) {
-  return floor(number)
+  return Math.floor(number)
 }
