@@ -10,6 +10,6 @@ function sayHey() {
 function sayHeyFriend(name) {
   return "Hey, "+ name +"!";
 }
-function shouting(string) {
-  return toUpperCase(string);
+function shouting() {
+  return toUpperCase("");
 }
