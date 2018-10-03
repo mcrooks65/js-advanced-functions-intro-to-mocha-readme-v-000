@@ -1,6 +1,6 @@
 function favoriteIceCream(flavor) {
-  return 'I love mint chocolate chip'
+  return 'I love mint chocolate chip';
 }
 function theTruth() {
-  return true
+  return true;
 }
